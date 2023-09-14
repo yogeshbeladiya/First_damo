@@ -1,4 +1,4 @@
 # First_damo
-This is my first git repository.
+This is my second git repository.
 <br>
-Author : Yogesh Beladiya(sybca)
+Author : Yogesh Beladiya(fybca)
